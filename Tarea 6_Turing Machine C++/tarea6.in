@@ -1,0 +1,49 @@
+2
+8 12 0 1
+7
+0 1 1 # R
+1 1 1 1 R
+1 2 0 0 R
+2 2 1 1 R
+2 3 # # L
+3 4 1 # L
+4 4 1 1 L
+4 5 0 0 L
+5 5 1 1 L
+5 0 # # R
+0 6 0 0 R
+6 7 # # S
+3
+101
+1110111
+110111
+11 21 0 2
+7
+10
+0 1 a X R
+1 1 a a R
+1 1 Y Y R
+1 2 b Y R
+2 3 b Y R
+3 3 b b R
+3 3 Z Z R
+3 4 c Z R
+4 5 c Z R
+5 6 c Z L
+6 6 Z Z L
+6 6 b b L
+6 6 Y Y L
+6 6 a a L
+6 0 X X R
+0 7 # # S
+0 8 Y Y R
+8 8 Y Y R
+8 9 Z Z R
+9 9 Z Z R
+9 10 # # S
+5
+abbccc
+aaabcc
+aabbcc
+aaaaaaaaabc
+aabbbbcccccc

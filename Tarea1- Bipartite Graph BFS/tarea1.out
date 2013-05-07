@@ -1,0 +1,45 @@
+Caso 1: No es bipartito
+
+Caso 2: Es bipartito
+0 a
+1 b
+2 a
+3 b
+4 a
+5 b
+
+Caso 3: Es bipartito
+0 a
+1 a
+
+Caso 4: Es bipartito
+0 a
+1 a
+2 a
+3 a
+4 b
+
+Caso 5: No es bipartito
+
+Caso 6: Es bipartito
+0 a
+1 a
+2 a
+3 a
+4 b
+5 b
+6 b
+
+Caso 7: No es bipartito
+
+Caso 8: No es bipartito
+
+Caso 9: Es bipartito
+0 a
+1 b
+2 a
+3 b
+4 a
+
+Caso 10: No es bipartito
+

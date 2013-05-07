@@ -1,0 +1,1 @@
+En la carpeta dist y en ésta misma carpeta,  está el archivo .jar de la tarea, el programa al ejecutarse abre la Interfaz grafica con un File Chooser en que le se selecciona el archivo entrada.in, y automaticamente al darle abrir se ejecuta todo el código de los cálculos y crea el archivo de salida tarea2.out en la carpeta donde se encuentre el archivo tarea2.jar

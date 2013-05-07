@@ -1,0 +1,12 @@
+Caso #1:
+101 Aceptada
+1110111 Aceptada
+110111 Rechazada
+
+Caso #2:
+abbccc Aceptada
+aaabcc Rechazada
+aabbcc Rechazada
+aaaaaaaaabc Rechazada
+aabbbbcccccc Aceptada
+
